@@ -1,5 +1,7 @@
 # ariejan/drone-hugo
 
+![Docker](https://github.com/ariejan/drone-hugo/workflows/Docker/badge.svg?branch=master)
+
 This is a Drone plugin to build Hugo static websites.
 
 ## Usage
