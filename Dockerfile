@@ -14,4 +14,3 @@ ADD drone-hugo.sh /bin/
 RUN chmod +x /bin/drone-hugo.sh
 
 ENTRYPOINT /bin/drone-hugo.sh
-
